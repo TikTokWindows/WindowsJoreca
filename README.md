@@ -12,3 +12,6 @@ Pra resolver,aperte CTRL+ALT+DEL e ENTER
 
 Programas,drivers e arquivos incluidos:
 MS-DOS 5.00,Win32s,MSCDEX,Música Descer pra BC,WinPlay3,AMD PCNET Driver,Creative SoundBlaster 16 Driver,IE 5.0,WMP Beta 5.2 Installer,Office 4.2 and PowerPoint 97 Viewer
+
+![Windows 3 1-2025-01-04-00-58-44](https://github.com/user-attachments/assets/aee9cf4a-9e92-46d5-841f-cad0c548cda8)
+
