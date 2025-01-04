@@ -2,6 +2,9 @@
 Este é o Windows Joreca,um Windows baseado nos memes de João Pedro e Soso Careca do TikTok
 Baseado no Windows for Workgroups 3.11
 
+Download em https://www.mediafire.com/file/5x4jrhld33t5prc/Joreca.7z/file
+Use 7zip pra extrair
+
 Bugs
 Na inicialização o sistema apresentará uma tela de boot bugada após o mouse pensando na tela
 Pra resolver,aperte CTRL+ALT+DEL e ENTER
